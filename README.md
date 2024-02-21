@@ -1,8 +1,10 @@
 # For the Love of Go
 
-This is my source code for my reading on the book ["For the love of Go"](https://bitfieldconsulting.com/books/love) by John Arundel.
+This is my source code for the reading on the book ["For the love of Go"](https://bitfieldconsulting.com/books/love) by John Arundel.
 
-My Goal is learning something about GOlang, so i try this book
+## Goal
+
+My Goal is learning something about GO lang, so i try this book
 
 ## Chapters Read
 
